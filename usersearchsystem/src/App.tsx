@@ -1,11 +1,11 @@
-import React from 'react';
+ 
 import './App.css';
-import UserFind from './components/UserFind';
+import UserFind from './component/UserFind';
 
 function App() {
   return (
     <div className="App">
-      <UserFind />
+       <UserFind />
     </div>
   );
 }
